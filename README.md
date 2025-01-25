@@ -102,7 +102,7 @@ Consultez le [rapport complet](./Documentation/Rapport_Optimisation_Donnees_eCom
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-repo.git
+   git clone git@github.com:AbdeljalilEzzirani/Optimization-of-e-Commerce-Data-Management-with-ETL-SCD-Power-BI.git
 
 
 ## 📬 Contact
